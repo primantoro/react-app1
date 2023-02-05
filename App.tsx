@@ -2,7 +2,7 @@ import React from 'react';
 import {Text} from 'react-native';
 
 const App = () => {
-  return <text></text>;
+  return <Text>Primantoro Dwi Yogo</Text>;
 };
 
-export default App;
+export default App; //menjadikan komponen App dapat dibaca darimanapun
